@@ -1,0 +1,6 @@
+# Project exclude paths
+/auction-user-boot/target/
+/auction-user-client/target/
+/auction-user-domain/target/
+/auction-user-service/target/
+/auction-user-store-jpa/target/
